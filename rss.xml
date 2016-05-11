@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Enigma Images]]></title>
         <description><![CDATA[Enigma Images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enigma-images/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 08:16:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 21:04:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enigma-images/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79917dcc-24f4-4cd0-9258-db9e1fba1c1f.jpg">]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/enigma-images/home/index.html</link>
             <guid isPermaLink="false">4f36cca9-2008-4317-9bbb-110c19682168</guid>
-            <pubDate>Sat, 07 May 2016 08:16:13 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 21:04:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
